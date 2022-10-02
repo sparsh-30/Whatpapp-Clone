@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: #dadbd3;
+}
+
+.container{
+    background-color: lightblue;
+    width: 90vw;
+    height: 93vh;
+    margin: 25px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+    background-color: #ededed;
+}

@@ -1,0 +1,28 @@
+.message{
+    position: relative;
+    font-size: 1.1rem;
+    padding: 10px;
+    width: fit-content;
+    max-width: 500px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin: 40px 5px;
+    margin-bottom: 20px;
+}
+
+.timestamp{
+    margin-left: 15px;
+    font-size: 0.65rem;
+}
+
+.name{
+    position: absolute;
+    top: -25px;
+    font-weight: 800;
+    font-size: 1rem;
+}
+
+.sent{
+    margin-left: auto;
+    background-color: #dcf8c6;
+}

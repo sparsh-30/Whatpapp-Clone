@@ -1,0 +1,22 @@
+.room-container{
+    width: 90%;
+    padding: 10px 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.room-container:hover{
+    background-color: #dadbd3;
+    border-radius: 5px;
+}
+
+.room-avatar{
+    float: left;
+    margin-right: 20px;
+    position: relative;
+}
+
+.span1{
+    font-weight: 700;
+}
